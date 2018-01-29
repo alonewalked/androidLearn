@@ -1,0 +1,11 @@
+
+ssquid:S1450"WRemove the "duration" field and declare it as a local variable in the relevant methods.(’Ï°Ø8¸ïŠõ+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ÊÒœœüÿÿÿÿ8ÕÄ‰õ+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††8Ú³ĞŒõ+
+Isquid:S1185"(Remove this method to simply inherit it.(ÛÊÄµÿÿÿÿÿ8¨³„õ+
+wsquid:S1450"VRemove the "endTime" field and declare it as a local variable in the relevant methods.(¶¡ôÀüÿÿÿÿ8¸ïŠõ+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷³·Ü8È£Šõ+
+Jsquid:S1172".Remove this unused method parameter "request".(÷³·Ü8È£Šõ+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(à„ç¤şÿÿÿÿ8ÕÄ‰õ+
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(¥»ÄŠ8º±¤õ+
+Zsquid:S3516"9Refactor this method to not always return the same value.(¸ÄÉˆüÿÿÿÿ8ôéšõ+

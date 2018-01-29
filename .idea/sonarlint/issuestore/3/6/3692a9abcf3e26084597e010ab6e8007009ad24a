@@ -1,0 +1,9 @@
+
+Lsquid:S1172"+Remove this unused method parameter "view".(•ºÁ¶ùÿÿÿÿ8Ş½¸¯Œ,
+zsquid:S1450"YRemove the "btnAddBook" field and declare it as a local variable in the relevant methods.(¯ùÿÿÿÿ8½É¥°Œ,
+{squid:S1450"ZRemove the "btnShowBook" field and declare it as a local variable in the relevant methods.(¶Î¼ûøÿÿÿÿ8ı¸˜°Œ,
+=squid:S1643"Use a StringBuilder instead.(èÅ‘Óûÿÿÿÿ8Ş½¸¯Œ,
+{squid:S1450"ZRemove the "btnShowUser" field and declare it as a local variable in the relevant methods.(ÕäÄ©úÿÿÿÿ8ŸÚ˜°Œ,
+Lsquid:S1172"+Remove this unused method parameter "view".(ÅÖêÿÿÿÿÿ8Ş½¸¯Œ,
+=squid:S1643"Use a StringBuilder instead.(’·Šêøÿÿÿÿ8Ş½¸¯Œ,
+Gsquid:S1172"+Remove this unused method parameter "view".(ÕÆ¬Â8Ş½¸¯Œ,

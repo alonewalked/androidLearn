@@ -1,0 +1,8 @@
+
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(¸ßø©üÿÿÿÿ
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8’É€”,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šœ•²8’É€”,
+]squid:UselessImportCheck"4Remove this unused import 'android.widget.ListView'.(Œ‰Ö×8’É€”,
+fsquid:UselessImportCheck"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ8’É€”,
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8’É€”,
+Wsquid:UnusedPrivateMethod"-Remove this unused private "initView" method.(šœ•²8à«É€”,

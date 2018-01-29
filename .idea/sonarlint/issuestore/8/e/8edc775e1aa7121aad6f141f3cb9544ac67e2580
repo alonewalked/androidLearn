@@ -1,0 +1,11 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üÞ…Ñÿÿÿÿÿ8’Üõ+
+Psquid:S1066"/Merge this if statement with the enclosing one.(Öìïüÿÿÿÿ8¢üÚõ+
+\squid:S3878"@Disambiguate this call by either casting as "Class" or "Class[]"(¦¢ðŸ8¢üÚõ+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¢ðŸ8¢üÚõ+
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(ƒ÷þ8’Üõ+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÉµÊõ+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®ÚÐÚùÿÿÿÿ8’Üõ+
+`squid:S2147"DCombine this catch with the one at line 83, which has the same body.(åþáÿ8ÉµÊõ+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÉµÊõ+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶¬Ž¬þÿÿÿÿ8¢üÚõ+

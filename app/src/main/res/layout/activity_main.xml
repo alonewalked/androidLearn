@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.leeco.learndemo.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/wrapper_process_view">
+        <com.example.uikit.ScaleProcessView
+            android:id="@+id/spv"
+            android:layout_width="220dp"
+            android:layout_height="30dp"
+            android:layout_centerInParent="true" />
+        <SeekBar
+            android:id="@+id/seek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/spv"
+            android:layout_marginTop="50dp"
+            android:max="100" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wrapper_banner_normal"
+        android:layout_below="@+id/wrapper_process_view">
+        <com.example.uikit.banner.RecyclerViewBannerNormal
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:orientation="horizontal"
+
+            />
+        <com.example.uikit.banner.RecyclerViewBannerNormal
+            android:id="@+id/banner2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/banner"
+            android:layout_marginTop="20dp"
+            app:orientation="vertical"
+            />
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

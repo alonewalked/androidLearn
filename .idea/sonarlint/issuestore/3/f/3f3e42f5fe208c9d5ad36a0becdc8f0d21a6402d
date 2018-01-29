@@ -1,0 +1,33 @@
+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤°É¯ûÿÿÿÿ8¦Ìð›ó+
+gsquid:S1192"FDefine a constant instead of duplicating this literal "error" 3 times.(à…œ’üÿÿÿÿ8¦Ìð›ó+
+fsquid:S1192"JDefine a constant instead of duplicating this literal "subscribe" 3 times.(äƒœ·8¦Ìð›ó+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè†¯üÿÿÿÿ8¦Ìð›ó+
+msquid:S1192"LDefine a constant instead of duplicating this literal "test7â€”â€”" 3 times.(Ä¾”÷ÿÿÿÿÿ8¦Ìð›ó+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀýÿÿÿÿ8¦Ìð›ó+
+Vsquid:UnusedPrivateMethod",Remove this unused private "test9_2" method.(êÏäƒ8¦Ìð›ó+
+msquid:S1192"LDefine a constant instead of duplicating this literal "test8â€”â€”" 3 times.(ÇžÓ±üÿÿÿÿ8¦Ìð›ó+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÿÆÂÿÿÿÿÿ8¦Ìð›ó+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀýÿÿÿÿ8¦Ìð›ó+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÏäƒ8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À¤Óï8¦Ìð›ó+
+osquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(œòþ€üÿÿÿÿ8¦Ìð›ó+
+jsquid:S1192"IDefine a constant instead of duplicating this literal "complete" 3 times.(†šœ ùÿÿÿÿ8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+psquid:S1192"ODefine a constant instead of duplicating this literal "chained mode: " 3 times.(É×±üÿÿÿÿ8¦Ìð›ó+
+ssquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8Ã£Ëò+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÔÉš8¦Ìð›ó+
+\squid:UnusedPrivateMethod"-Remove this unused private "test10_1" method.(Âè†¯üÿÿÿÿ8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¼‚ðùÿÿÿÿ8¦Ìð›ó+
+isquid:S1192"MDefine a constant instead of duplicating this literal "test2â€”â€” " 7 times.(Ò¸”Œ8¦Ìð›ó+
+Xsquid:UselessImportCheck"*Remove this unused import 'java.sql.Time'.(Üå»‰þÿÿÿÿ8…ü”›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(óýûŠøÿÿÿÿ8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿñûÃ8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯·Ä±8¦Ìð›ó+

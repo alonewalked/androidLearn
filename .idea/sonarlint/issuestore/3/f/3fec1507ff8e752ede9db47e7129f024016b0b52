@@ -1,0 +1,5 @@
+
+Lsquid:S1444"0Make this "public static SOKET_PORT" field final(кт√У8Пƒ»ЌН,
+qsquid:S3008"URename this field "SOKET_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(кт√У8Пƒ»ЌН,
+Й"squid:ClassVariableVisibilityCheck"VMake SOKET_PORT a static final constant or non-public and provide accessors if needed.(кт√У8Пƒ»ЌН,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ЫЇ§д8Пƒ»ЌН,

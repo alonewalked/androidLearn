@@ -1,0 +1,4 @@
+
+–squid:S1319"uThe type of the "imageItems" object should be an interface such as "List" rather than the implementation "ArrayList".(’è¡şÿÿÿÿ8¡Ù¶¡ò+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8ùŠ¢ò+
+3squid:S2176"Rename this class.(Â×Öúÿÿÿÿ8¡Ù¶¡ò+

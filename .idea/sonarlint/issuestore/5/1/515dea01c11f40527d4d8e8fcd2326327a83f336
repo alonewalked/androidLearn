@@ -1,0 +1,5 @@
+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ñ¿Íòùÿÿÿÿ8œÄ¤Œõ+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ±¯8Ç’‚‘õ+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¸¢øÿÿÿÿ8Ç’‚‘õ+
+Fsquid:S1172"*Remove this unused method parameter "url".(©îÛ³8Ç’‚‘õ+

@@ -1,0 +1,7 @@
+
+Dsquid:S1185"(Remove this method to simply inherit it.(ÍÙ÷¢8€÷Á®Œ,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8É¬ü‹,
+Gsquid:S1481"+Remove this unused "commit" local variable.(ðŽ–Ð8òÜ÷®Œ,
+psquid:S1450"TRemove the "mBtn2" field and declare it as a local variable in the relevant methods.(ò²ß«8Ï¢Šš,
+Vsquid:S1854":Remove this useless assignment to local variable "commit".(ðŽ–Ð8òÜ÷®Œ,
+qsquid:S1450"VRemove the "mButton" field and declare it as a local variable in the relevant methods.(¸Òˆ)8 ú®Œ,

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.artdemo.viewdemo.view.DragLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollerWrapper"
+    tools:context=".ScrollerActivity">
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.example.artdemo.viewdemo.view.Fragment1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.artdemo.viewdemo.view.Fragment2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment3"
+        android:name="com.example.artdemo.viewdemo.view.Fragment3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </fragment>
+</com.example.artdemo.viewdemo.view.DragLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加书籍"
+        android:id="@+id/btn_add_book"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_show_book"
+        android:text="显示书籍"/>
+
+    <TextView
+        android:id="@+id/main_tv_show_books"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center|top"
+        android:text="数据"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_show_user"
+        android:text="显示作者"/>
+
+    <TextView
+        android:id="@+id/main_tv_show_users"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="数据"/>
+</LinearLayout>

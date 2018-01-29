@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnDemo.iml" filepath="$PROJECT_DIR$/LearnDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artdemo/artdemo.iml" filepath="$PROJECT_DIR$/artdemo/artdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybriddemo/hybriddemo.iml" filepath="$PROJECT_DIR$/hybriddemo/hybriddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libcore/libcore.iml" filepath="$PROJECT_DIR$/libcore/libcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixerframework/mixerframework.iml" filepath="$PROJECT_DIR$/mixerframework/mixerframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavademo/rxjavademo.iml" filepath="$PROJECT_DIR$/rxjavademo/rxjavademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uikit/uikit.iml" filepath="$PROJECT_DIR$/uikit/uikit.iml" />
+    </modules>
+  </component>
+</project>

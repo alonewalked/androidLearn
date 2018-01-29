@@ -1,0 +1,5 @@
+
+Isquid:S1185"(Remove this method to simply inherit it.(¨Œşÿÿÿÿ8ÏÚ¿Ÿò+
+jsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(¤ëˆ8…œ¤£ò+
+Nsquid:S1905"-Remove this unnecessary cast to "ImageModel".(àá¢Àøÿÿÿÿ8…œ¤£ò+
+wsquid:S1450"[Remove the "imageAdapter" field and declare it as a local variable in the relevant methods.(ÄÉÒÚ8±Î¤¢ò+

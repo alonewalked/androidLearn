@@ -1,0 +1,6 @@
+
+rsquid:S1450"VRemove the "tvTitle" field and declare it as a local variable in the relevant methods.(Æ¶‡8ş°îõ+
+{squid:S1450"ZRemove the "rightButton" field and declare it as a local variable in the relevant methods.(ï¾ª®ûÿÿÿÿ8ş°îõ+
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(Ç¿½ú8áµìõ+
+ysquid:UselessImportCheck"PRemove this unused import 'com.example.mixerframework.base.WebViewBaseActivity'.(½¯ƒ8¾ûëõ+
+ssquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8¤Ã´õ+

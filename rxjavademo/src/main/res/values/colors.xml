@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffb740</color>
+    <color name="colorPrimaryDark">#ffb740</color>
+    <color name="colorAccent">#ffb740</color>
+
+    <color name="app_white_color">#ffffff</color>
+    <color name="app_brand_color">#ffb740</color>
+    <color name="app_divider_color">#e8ecf1</color>
+
+
+    <color name="app_content_main_color">#484e5e</color>
+
+</resources>

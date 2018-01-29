@@ -1,0 +1,6 @@
+
+Tsquid:S1068"3Remove this unused "webviewFragment" private field.(®šìÕúÿÿÿÿ8«ƒ‚Žõ+
+tsquid:S1450"SRemove the "mUrl" field and declare it as a local variable in the relevant methods.(‡Ã™¾øÿÿÿÿ8££†Žõ+
+Isquid:S1068"(Remove this unused "mUrl" private field.(‡Ã™¾øÿÿÿÿ8Š‹„Žõ+
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(´—éçûÿÿÿÿ
+squid:S1450"^Remove the "webviewFragment" field and declare it as a local variable in the relevant methods.(®šìÕúÿÿÿÿ8Æ¶‡Žõ+
